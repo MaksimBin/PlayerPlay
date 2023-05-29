@@ -1,36 +1,36 @@
 const playLists = [
-  "/audio/System of a Down - Toxicity.mp3",
-  "/audio/Gustavo_Mota_Naizon_-_What_the_Funk_74232311.mp3",
-  "/audio/David_Novacek_Incognet_-_Loser_Hit_66042493.mp3",
-  "/audio/GKey_AlexMini_-_King_of_Bass_Extended_Mix_64681271.mp3",
-  "/audio/saigon nightmare — Пацаны с танцев звонят (www.lightaudio.ru).mp3",
-  "/audio/Harold Faltermeyer - Top Gun Anthem (OST из фильма _Лучший стрелок _ Top Gun_) (galamp3.com).mp3",
-  "/audio/Lesley Gore - — It's My Party(1963) ost _трудный ребенок_ (www.lightaudio.ru).mp3",
-  "/audio/Max Cruise, The Motion Epic — Danger Zone (www.lightaudio.ru).mp3",
+  "System of a Down - Toxicity.mp3",
+  "Gustavo_Mota_Naizon_-_What_the_Funk_74232311.mp3",
+  "David_Novacek_Incognet_-_Loser_Hit_66042493.mp3",
+  "GKey_AlexMini_-_King_of_Bass_Extended_Mix_64681271.mp3",
+  "saigon nightmare — Пацаны с танцев звонят (www.lightaudio.ru).mp3",
+  "Harold Faltermeyer - Top Gun Anthem (OST из фильма _Лучший стрелок _ Top Gun_) (galamp3.com).mp3",
+  "Lesley Gore - — It's My Party(1963) ost _трудный ребенок_ (www.lightaudio.ru).mp3",
+  "Max Cruise, The Motion Epic — Danger Zone (www.lightaudio.ru).mp3",
   ]
 
 const colors = [
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
-    "/1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png"
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
+    "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png"
     ]
 
 const images = [
-    "/1685376914476.jpg",
-    "/1685376914476.jpg",
-    "/1685376914476.jpg",
-    "/1685376914476.jpg",
-    "/1685376914476.jpg",
-    "/1685376914476.jpg",
-    "/1685376914476.jpg",
-    "/1685376914476.jpg",
-    "/1685376914476.jpg",
+    "1685376914476.jpg",
+    "1685376914476.jpg",
+    "1685376914476.jpg",
+    "1685376914476.jpg",
+    "1685376914476.jpg",
+    "1685376914476.jpg",
+    "1685376914476.jpg",
+    "1685376914476.jpg",
+    "1685376914476.jpg",
    ]
 
 const randomTexts = [
