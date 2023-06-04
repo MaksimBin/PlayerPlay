@@ -22,15 +22,15 @@ const colors = [
     ]
 
 const images = [
-    "1685376914476.jpg",
-    "1685376914476.jpg",
-    "1685376914476.jpg",
-    "1685376914476.jpg",
-    "1685376914476.jpg",
-    "1685376914476.jpg",
-    "1685376914476.jpg",
-    "1685376914476.jpg",
-    "1685376914476.jpg",
+    "hit.jpg",
+    "hit.jpg",
+    "hit.jpg",
+    "hit.jpg",
+    "hit.jpg",
+    "hit.jpg",
+    "hit.jpg",
+    "hit.jpg",
+    "hit.jpg",
    ]
 
 const randomTexts = [
