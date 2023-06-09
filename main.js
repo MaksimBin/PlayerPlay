@@ -22,19 +22,19 @@ const colors = [
     ]
 
 const images = [
-    "bt.jpg",
-    "bt.jpg",
-    "bt.jpg",
-    "bt.jpg",
-    "bt.jpg",
-    "bt.jpg",
-    "bt.jpg",
-    "bt.jpg",
-    "bt.jpg",
+    "btt.jpg",
+    "btt.jpg",
+    "btt.jpg",
+    "btt.jpg",
+    "btt.jpg",
+    "btt.jpg",
+    "btt.jpg",
+    "btt.jpg",
+    "btt.jpg",
    ]
 
 const randomTexts = [
-     "Коломна Всем Привет",
+     "Рязань Всем Привет",
      "Москва Всем Привет",
      "Клин Всем Привет",
      "Шатура Всем Привет",
