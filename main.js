@@ -17,8 +17,8 @@ const colors = [
     "bb4.jpg",
     "bb5.jpeg",
     "bb1.png",
-    "gif1.gif",
-    "bb2.png"
+    "bb2.png",
+    "gif1.gif"
     ]
 
 const images = [
