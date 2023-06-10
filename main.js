@@ -12,7 +12,7 @@ const playLists = [
 const colors = [
     "1619101415_30-phonoteka_org-p-fon-vertikalnii-gradient-30.png",
     "bb1.png",
-    "gif1.png",
+    "gif1.gif",
     "bb3.jpg",
     "bb4.jpg",
     "bb5.jpeg",
