@@ -221,7 +221,10 @@ const playModal = (audioSrc, index) => {
   document.getElementById('random').innerHTML = `${randomTexts[getText(number)]}`
 
 
-  document.getElementById('color').style = `background-image: url("${colors[getBacground(number)]}");`
+  document.getElementById('color').style = `background-image: url("${colors[getBacground(number)]}");
+background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;`
 
  // document.getElementById('color1').style = `color:${colors[number]};`
 
@@ -258,7 +261,10 @@ const next = () => {
   document.getElementById('random').innerHTML = `${randomTexts[getText(number)]}`
 
 
-  document.getElementById('color').style = `background-image: url("${colors[getBacground(number)]}");`
+  document.getElementById('color').style = `background-image: url("${colors[getBacground(number)]}");
+background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;`
 
 //  document.getElementById('color1').style = `color:${colors[number]};`
 
@@ -289,7 +295,10 @@ const naz = () => {
   document.getElementById('random').innerHTML = `${randomTexts[getText(number)]}`
 
 
-  document.getElementById('color').style = `background-image: url("${colors[getBacground(number)]}");`
+  document.getElementById('color').style = `background-image: url("${colors[getBacground(number)]}");
+background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;`
 
 //  document.getElementById('color1').style = `color:${colors[number]};`
 
