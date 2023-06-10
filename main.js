@@ -29,7 +29,7 @@ const images = [
     "bmw.jpg",
     "bmw.jpg",
     "bmw.jpg",
-    "bmw.jpg",
+    "lov.jpg",
     "bmw.jpg",
    ]
 
