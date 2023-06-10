@@ -176,7 +176,7 @@ function draw() {
   }
 
   ctx.quadraticCurveTo(prev.x, prev.y, canvas.width, canvas.height)
-  ctx.fillStyle = '#0000FF';
+  ctx.fillStyle = '#FF00FF';
   ctx.closePath(); //draw to first point
   ctx.shadowColor = '#FFFF00';
   ctx.shadowBlur = 50;
