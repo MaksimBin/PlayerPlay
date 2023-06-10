@@ -22,15 +22,15 @@ const colors = [
     ]
 
 const images = [
-    "btt.jpg",
-    "btt.jpg",
-    "btt.jpg",
-    "btt.jpg",
-    "btt.jpg",
-    "btt.jpg",
-    "btt.jpg",
-    "btt.jpg",
-    "btt.jpg",
+    "bmw.jpg",
+    "bmw.jpg",
+    "bmw.jpg",
+    "bmw.jpg",
+    "bmw.jpg",
+    "bmw.jpg",
+    "bmw.jpg",
+    "bmw.jpg",
+    "bmw.jpg",
    ]
 
 const randomTexts = [
