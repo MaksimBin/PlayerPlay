@@ -22,11 +22,11 @@ const colors = [
     ]
 
 const images = [
+    "pat.jpg",
     "bmw.jpg",
+    "pad.jpg",
     "bmw.jpg",
-    "bmw.jpg",
-    "bmw.jpg",
-    "bmw.jpg",
+    "pad.jpg",
     "bmw.jpg",
     "bmw.jpg",
     "ket.jpg",
