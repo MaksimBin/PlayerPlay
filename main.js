@@ -1,5 +1,5 @@
 const playLists = [
-  "System of a Down - Toxicity.mp3",
+  "olya.mp3",
   "Gustavo_Mota_Naizon_-_What_the_Funk_74232311.mp3",
   "David_Novacek_Incognet_-_Loser_Hit_66042493.mp3",
   "GKey_AlexMini_-_King_of_Bass_Extended_Mix_64681271.mp3",
@@ -22,7 +22,7 @@ const colors = [
     ]
 
 const images = [
-    "pad.gif",
+    "olya.jpg",
     "bmw.jpg",
     "pad.gif",
     "bmw.jpg",
