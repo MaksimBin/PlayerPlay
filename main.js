@@ -6,7 +6,7 @@ const playLists = [
   "saigon nightmare — Пацаны с танцев звонят (www.lightaudio.ru).mp3",
   "Harold Faltermeyer - Top Gun Anthem (OST из фильма _Лучший стрелок _ Top Gun_) (galamp3.com).mp3",
   "Lesley Gore - — It's My Party(1963) ost _трудный ребенок_ (www.lightaudio.ru).mp3",
-  "keti.mp3",
+  "Romantic.mp3",
   ]
 
 const colors = [
