@@ -29,7 +29,7 @@ const images = [
     "bmw.jpg",
     "bmwmax.jpg",
     "oli.jpg",
-    "bmwmax.jpg",
+    "Moya.jpg",
     "drive.gif",
    ]
 
@@ -41,7 +41,7 @@ const randomTexts = [
      "СОЧИ 2023",
      "СОЧИ 2023",
      "ОЛЯ В СОЧИ - 2023",
-     "СОЧИ 2023",
+     "ЛЁЛЕЧКА - СОЧИ 2023",
      "МОЯ МУЗЫКА",
      ]
 
