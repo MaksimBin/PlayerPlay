@@ -23,13 +23,13 @@ const colors = [
 
 const images = [
     "olya.jpg",
+    "bmwmax.jpg",
     "bmw.jpg",
-    "pad.gif",
+    "bmwmax.jpg",
     "bmw.jpg",
-    "pad.gif",
+    "bmwmax.jpg",
     "bmw.jpg",
-    "bmw.jpg",
-    "ket.jpg",
+    "bmwmax.jpg",
     "drive.gif",
    ]
 
