@@ -23,7 +23,7 @@ const colors = [
 
 const images = [
     "olya.jpg",
-    "More.jpg",
+    "More.jpeg",
     "bmw.jpg",
     "bmwmax.jpg",
     "bmw.jpg",
