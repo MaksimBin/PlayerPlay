@@ -28,7 +28,7 @@ const images = [
     "bmwmax.jpg",
     "bmw.jpg",
     "bmwmax.jpg",
-    "bmw.jpg",
+    "oli.jpg",
     "bmwmax.jpg",
     "drive.gif",
    ]
