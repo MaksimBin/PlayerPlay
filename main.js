@@ -1,6 +1,6 @@
 const playLists = [
   "olya.mp3",
-  "Gustavo_Mota_Naizon_-_What_the_Funk_74232311.mp3",
+  "More.mp3",
   "David_Novacek_Incognet_-_Loser_Hit_66042493.mp3",
   "GKey_AlexMini_-_King_of_Bass_Extended_Mix_64681271.mp3",
   "saigon nightmare — Пацаны с танцев звонят (www.lightaudio.ru).mp3",
@@ -23,7 +23,7 @@ const colors = [
 
 const images = [
     "olya.jpg",
-    "bmwmax.jpg",
+    "More.jpg",
     "bmw.jpg",
     "bmwmax.jpg",
     "bmw.jpg",
