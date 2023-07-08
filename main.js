@@ -1,7 +1,7 @@
 const playLists = [
   "olya.mp3",
   "More.mp3",
-  "David_Novacek_Incognet_-_Loser_Hit_66042493.mp3",
+  "Pamat.mp3",
   "GKey_AlexMini_-_King_of_Bass_Extended_Mix_64681271.mp3",
   "saigon nightmare — Пацаны с танцев звонят (www.lightaudio.ru).mp3",
   "Harold Faltermeyer - Top Gun Anthem (OST из фильма _Лучший стрелок _ Top Gun_) (galamp3.com).mp3",
@@ -24,7 +24,7 @@ const colors = [
 const images = [
     "olya.jpg",
     "More.jpeg",
-    "bmw.jpg",
+    "Pamat.jpg",
     "bmwmax.jpg",
     "bmw.jpg",
     "bmwmax.jpg",
